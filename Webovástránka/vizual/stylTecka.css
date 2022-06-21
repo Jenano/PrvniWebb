@@ -1,0 +1,54 @@
+.navigace
+{
+    padding: 10px;
+    margin-left: 20px ;
+    margin-bottom: 5px;
+    color: black;
+    background-color: orange ;    
+    border-color: black;
+    font:icon; 
+    border-radius: 7%;  
+    
+}
+.login
+{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    margin-left: 20px ;
+}
+.obtekani
+{
+  margin-top: 5px;
+  display: flex;
+}
+
+.welcome-sekce{
+  width: 100%;
+  height:300px;
+  background-image: url(pexels-simon-berger-1323550.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.navigace-sekce
+{
+  padding: 10px;
+  
+  background-color:navy;
+}
+.vitani
+{
+  display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+nav
+{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-shadow:20px;
+
+}
